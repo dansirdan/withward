@@ -1,0 +1,19 @@
+{
+  "name": "withward",
+  "version": "1.0.0",
+  "description": "SERN stack application that connects users so that they can collaborate on trips and travels",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansirdan/withward.git"
+  },
+  "author": "Daniel Mont-Eton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dansirdan/withward/issues"
+  },
+  "homepage": "https://github.com/dansirdan/withward#readme"
+}
